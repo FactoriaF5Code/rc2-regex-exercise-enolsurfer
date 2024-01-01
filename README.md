@@ -4,7 +4,11 @@
 ## Investiga: 
 
 - qué son las expresiones regulares?
+    Son secuencias de caracteres que forman un patrón de búsqueda
+
 - Qué problema resuelven? Por qué es importante conocerlas?
+    Budqueda y extraccion de datos, validacion de formatos, sustitucion y manipulacion de texto, analisis de log y procesamiento de datos en lote.
+    Es importante conocer las expresiones regulares porque ofrecen una herramienta poderosa y versátil para trabajar con texto de manera eficiente.
 
 ## Ejercicio 1:
 
